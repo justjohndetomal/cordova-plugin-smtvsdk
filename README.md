@@ -2,7 +2,7 @@
 Cordova Plugin for Twilio Programmable Voice SDK
 
 # Changelog
-6.1.6 - May 21, 2021 - Updated to support Twilio Voice SDK 5.7.2 for Android
+1.0.0 - May 21, 2021 - Updated to support Twilio Voice SDK 5.7.2 for Android
 
 # Requires AndroidX (Android only)
 Note - as of January 15, 2021, this requires AndroidX support, as well as Cordova Android 9 or above. You also need to set up Firebase Cloud Messaging (FCM), and include a `google-services.json` file in your `platforms/android/app` directory
