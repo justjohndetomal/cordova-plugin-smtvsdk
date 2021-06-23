@@ -1,0 +1,45 @@
+{
+  "name": "cordova-plugin-smtvsdk",
+  "version": "6.1.6",
+  "description": "Use the Twilio Voice SDK for iOS or Android with Cordova/PhoneGap.",
+  "cordova": {
+    "id": "cordova-plugin-smtvsdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:justjohndetomal/cordova-plugin-smtvsdk.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "<2.5.0": {
+        "cordova-ios": ">=4.3.0",
+        "cordova-android": ">=6.0.0",
+        "cordova": ">=6.4.0"
+      },
+      ">2.5.0": {
+        "cordova-ios": ">=4.4.0",
+        "cordova-android": ">=6.3.0",
+        "cordova": ">=7.0.0"
+      }
+    }
+  },
+  "author": "Justine Detomal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justjohndetomal/cordova-plugin-smtvsdk/issues"
+  },
+  "homepage": "https://github.com/justjohndetomal/cordova-plugin-smtvsdk#readme",
+  "main": "https://github.com/justjohndetomal/cordova-plugin-smtvsdk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
